@@ -1,6 +1,7 @@
 # BootCamp Carrefour - Web Developer
 
 ### Modulo I - Conteúdo de Abertura
+
 - [x] Boas-vindas.
 - [x] Aula Inaugural
 - [x] Pensamento Computacional
@@ -10,12 +11,14 @@
 - [x] Criando o primeiro Projeto no Github
 
 ### Modulo II - HTML5/CSS3
-- [ ] Primeiros passos para desenvolvimento Web
-- [ ] Instrodução a criação de websites com HTML5 e CSS3
-- [ ] Construindo páginas para internet com Bootstrap
-- [ ] Recriando a interface da Netflix
+
+- [x] Primeiros passos para desenvolvimento Web
+- [x] Instrodução a criação de websites com HTML5 e CSS3
+- [x] Construindo páginas para internet com Bootstrap
+- [x] Recriando a interface da Netflix
 
 ### Modulo III - JavaScript
+
 - [ ] Coleções
 - [ ] Debugging e Error Handling
 - [ ] JavaScript Assicrono
@@ -26,6 +29,7 @@
 - [ ] Desafios Iniciais Js - Carrefour Web
 
 ### Modulo IV - Reactjs
+
 - [ ] Introdução ao Reactjs
 - [ ] Desenvolvimento de aplicações para internet com Reactjs
 - [ ] Introdução a Redux com Reactjs
