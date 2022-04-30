@@ -19,20 +19,20 @@
 
 ### Modulo III - JavaScript
 
-- [ ] Coleções
-- [ ] Debugging e Error Handling
-- [ ] JavaScript Assicrono
-- [ ] Orientação a Objetos
-- [ ] Map, Filters e Reduce
-- [ ] Manipulando a D.O.M com JavaScript
-- [ ] Resolvendo desafios de codigos JavaScript
-- [ ] Desafios Iniciais Js - Carrefour Web
+- [x] Coleções
+- [x] Debugging e Error Handling
+- [x] JavaScript Assicrono
+- [x] Orientação a Objetos
+- [x] Map, Filters e Reduce
+- [x] Manipulando a D.O.M com JavaScript
+- [x] Resolvendo desafios de codigos JavaScript
+- [x] Desafios Iniciais Js - Carrefour Web
 
 ### Modulo IV - Reactjs
 
-- [ ] Introdução ao Reactjs
-- [ ] Desenvolvimento de aplicações para internet com Reactjs
-- [ ] Introdução a Redux com Reactjs
-- [ ] Desafios Intermediários Js - Carrefour Web Developer
-- [ ] Trabalhando com States & Effects no Reactjs
-- [ ] Desenvolvendo uma PWA com React para mapear os dados do COVID19 pelo mundo
+- [x] Introdução ao Reactjs
+- [x] Desenvolvimento de aplicações para internet com Reactjs
+- [x] Introdução a Redux com Reactjs
+- [x] Desafios Intermediários Js - Carrefour Web Developer
+- [x] Trabalhando com States & Effects no Reactjs
+- [] Desenvolvendo uma PWA com React para mapear os dados do COVID19 pelo mundo
